@@ -1,0 +1,33 @@
+[
+    {
+        "customers feedback for product": {
+            " 1 feedback": {
+                "Points": "10",
+                "extraPoints": ""
+            },
+            " 100 feedback": {
+                "Points": "100",
+                "extraPoints": "10"
+            },
+            " 1000 feedback": {
+                "Points": "1000",
+                "extraPoints": "100"
+            }
+        },
+    
+        "End-users' feedback":{
+            "1 feedback": {
+                "Points": "10",
+                "extraPoints": ""
+            },
+            "100 feedback": {
+                "Points": "100",
+                "extraPoints": "10"
+            },
+            "1000 feedback": {
+                "Points": "1000",
+                "extraPoints": "100"
+            }
+        }
+    }
+]
